@@ -1,1 +1,2 @@
 # nodetogether
+Boston Workshop
