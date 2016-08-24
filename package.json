@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lady3bean/nodetogether/issues"
   },
-  "homepage": "https://github.com/lady3bean/nodetogether#readme"
+  "homepage": "https://github.com/lady3bean/nodetogether#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
