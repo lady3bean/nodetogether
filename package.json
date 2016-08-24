@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lady3bean/nodetogether#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "motivations": "^1.0.10",
+    "pick-one": "^1.0.1"
   }
 }
